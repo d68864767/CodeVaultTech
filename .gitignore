@@ -1,0 +1,59 @@
+# Ignore configuration files that may contain sensitive information
+/config/*
+
+# Ignore all compiled executables
+/bin/*
+
+# Ignore all libraries
+/lib/*
+
+# Ignore all build files
+/build/*
+
+# Ignore all data files
+/data/*
+
+# Ignore all assets
+/assets/*
+
+# Ignore all tools
+/tools/*
+
+# Ignore all third-party licenses and documentation
+/third-party/*
+
+# Ignore all test files
+/tests/*
+
+# Ignore all example code
+/examples/*
+
+# Ignore all files related to version control system
+.git
+
+# Ignore all files related to the IDE
+.idea
+*.swp
+*.swo
+*.swn
+*.bak
+*.pyc
+*.pyo
+*.log
+*.aux
+*.out
+*.toc
+*.gz
+*.bbl
+*.blg
+*.dvi
+*.ps
+*.lof
+*.lot
+*.lol
+*.idx
+*.ind
+*.ilg
+*.tex.backup
+*.bib.backup
+*.synctex.gz(busy)
